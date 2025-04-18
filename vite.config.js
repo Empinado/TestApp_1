@@ -3,5 +3,5 @@ import vue from "@vitejs/plugin-vue";
 
 export default defineConfig({
   plugins: [vue()],
-  base: "/project/", // Замените на имя вашего репозитория
+  base: "/testapp_1/", // Замените на имя вашего репозитория
 });
